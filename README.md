@@ -1,0 +1,2 @@
+# WindowsInformationExplorer
+这是由我编写的一个运行于Windows平台下的窗体信息浏览器. 通过它可以查看当前所有窗体及其子窗体的ClassName/WindowText/HWND(句柄).
